@@ -19,6 +19,8 @@ p {
 ul {
 	font-family: 'Poppins', sans-serif;
 	font-size: 16px;
+	text-decoration: none;
+	list-style: none;
 }
 
 h2 {
@@ -43,10 +45,6 @@ a:link {
 }
 
   background: #f1f1f1;
-}
-
-ul {
-	list-style: none;
 }
 
 body, html {
