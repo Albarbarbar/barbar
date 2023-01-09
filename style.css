@@ -5,7 +5,6 @@
 }
 
 a {
-	color: black;
 	font-family: 'Poppins', sans-serif;
 	font-size: 20px;
 }
@@ -43,38 +42,12 @@ a:link {
 	text-decoration: none;
 }
 
-.navbar input[type=text] {
-	position: center;
-	float: center;
-	padding: 10px;
-	border: none;
-	margin-top: 11px;
-	margin-right: 10px;
-	font-size: 20px;
-	border: 1px solid grey;	
   background: #f1f1f1;
-}
-
-.navbar button {
-	float: center;;
-	padding: 5px;
-	margin-right: 25px;
-	color: #FF0000;
-	font-size: 17px;
-	border: 2px solid grey;
-	border-left: none;
-	cursor: pointer;
-}
-
-button:hover {
-	background: #9e9e9e;
 }
 
 ul {
 	list-style: none;
 }
-
-
 
 body, html {
 	scroll-behavior: smooth;
@@ -92,6 +65,16 @@ body {
 header {
 	background-color: #FF0000;
 	color: azure;
+}
+
+footer a {
+	color: azure;
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+}
+
+footer a:hover {
+  	color: #000000;
 }
 
 span {
