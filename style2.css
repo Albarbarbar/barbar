@@ -1,8 +1,11 @@
 @media screen and (max-width: 600px) {
-  body {
+ body {
     font-size: 8px;
-	
-  }
+ }
+viewport {
+	size: 1.0;
+}
+
 }
 
 * {
