@@ -1,3 +1,17 @@
+@media screen and (min-width: 600px) {
+  body {
+    font-size: 80px;
+	  img-height: 50%
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 30px;
+	img-height: 8%;
+  }
+}
+
 * {
 	margin: 0%;
 	padding: 0%;
@@ -31,10 +45,6 @@ li {
 h2 {
 	margin-bottom: 30px;
 	font-family: 'Poppins', sans-serif;
-}
-
-img {
-	height: 50%;
 }
 
 h3 {
@@ -175,11 +185,10 @@ span {
 	text-align: center;
 	float: center;
 	color: blue;
-	height: 40%;
 }
 
 .bondong {
-    margin: 50px;
+    	margin: 50px;
 	text-align: center;
 	padding-top: 20px;
 }
