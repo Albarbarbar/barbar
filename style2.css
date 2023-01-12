@@ -28,7 +28,7 @@ h2 {
 }
 
 img {
-	height: 50%;
+	height: 10%;
 }
 
 h3 {
@@ -41,33 +41,6 @@ a:hover {
 
 a:link {
 	text-decoration: none;
-}
-
-.navbar input[type=text] {
-	position: center;
-	float: center;
-	padding: 10px;
-	border: none;
-	margin-top: 11px;
-	margin-right: 10px;
-	font-size: 20px;
-	border: 1px solid grey;	
-  background: #f1f1f1;
-}
-
-.navbar button {
-	float: center;;
-	padding: 5px;
-	margin-right: 25px;
-	color: #FF0000;
-	font-size: 17px;
-	border: 2px solid grey;
-	border-left: none;
-	cursor: pointer;
-}
-
-button:hover {
-	background: #9e9e9e;
 }
 
 ul {
