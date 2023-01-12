@@ -49,9 +49,6 @@ a:link {
 	text-decoration: none;
 }
 
-  background: #f1f1f1;
-}
-
 body, html {
 	scroll-behavior: smooth;
 	height: 100%;
@@ -179,13 +176,6 @@ span {
 	float: center;
 	color: blue;
 	height: 40%;
-}
-
-.lagu {
-	position: fixed;
-	margin-top: 6vh;
-	margin-left: 1vh;
-	z-index: 2;
 }
 
 .bondong {
