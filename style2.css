@@ -1,10 +1,11 @@
 @media screen and (max-width: 600px) {
  body {
     font-size: 8px;
- }
+ 	}
 viewport {
+	width: device-width;
 	size: 1.0;
-}
+	}
 
 }
 
