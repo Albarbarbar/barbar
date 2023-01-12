@@ -1,4 +1,9 @@
-@media screen 
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 8px;
+	img-height: 8%;
+  }
+}
 
 * {
 	margin: 0%;
@@ -30,7 +35,7 @@ h2 {
 }
 
 img {
-	height: 10%;
+	height: 8%;
 }
 
 h3 {
