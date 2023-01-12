@@ -1,3 +1,5 @@
+@media screen 
+
 * {
 	margin: 0%;
 	padding: 0%;
@@ -46,8 +48,6 @@ a:link {
 ul {
 	list-style: none;
 }
-
-
 
 body, html {
 	scroll-behavior: smooth;
@@ -174,13 +174,6 @@ span {
 	float: center;
 	color: blue;
 	height: 40%;
-}
-
-.lagu {
-	position: fixed;
-	margin-top: 6vh;
-	margin-left: 1vh;
-	z-index: 2;
 }
 
 .bondong {
