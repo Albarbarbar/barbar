@@ -6,11 +6,8 @@
 }
 
 @media screen and (max-width: 600px) {
-* {
-	width: 1.0;
-	}
   body {
-    font-size: 10px;
+    font-size: 8px;
 	img-height: 8%;
   }
 }
