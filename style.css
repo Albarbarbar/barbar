@@ -1,6 +1,6 @@
 @media screen and (max-width: 600px) {
 	img {
-		width: 600px;
+		width: relative;
 	}
 
 	.navbar .headline {
