@@ -23,21 +23,11 @@ p {
 }
 
 img {
-	width: 60%;
-}
-	
-ul {
-	
-	font-size: 16px;
+	width: 20%;
 }
 
 h2 {
 	margin-bottom: 30px;
-	font-family: 'Poppins', sans-serif;
-}
-
-h3 {
-	
 }
 
 a:hover {
@@ -151,25 +141,24 @@ span {
 
 .kananbawah2 {
 	position: absolute;
-	bottom: 1px;
-	right: 440px;
+  	bottom: 1px;
+  	right: 390px;
 }
 
 .kananbawah3 {
 	position: absolute;
-	bottom: 1px;
-	right: 440px;
+  	bottom: 1px;
+  	right: 390px;
 }
 
 .extra {
 	text-align: center;
 	float: center;
 	color: blue;
-	height: 40%;
 }
 
 .extra p {
-	margin-top: 10px;
+	margin-top: 20px;
 	font-size: 16px;
 }
 
@@ -206,7 +195,11 @@ span {
 	color :azure;
 	font-size: 20px;
 	padding-top: 20px;
-    padding-bottom: 20px;
+    	padding-bottom: 20px;
+}
+
+.bottom p {
+	margin-top: 10px;
 }
 
 .bottom h3 {
