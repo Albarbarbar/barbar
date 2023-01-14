@@ -1,4 +1,8 @@
-
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
 
 * {
 	margin: 0%;
@@ -47,7 +51,7 @@ header {
 }
 
 span {
-	color:darkorange
+	color: darkorange
 }
 
 .navbar, .logo {
@@ -111,19 +115,19 @@ span {
 }
 
 .asal {
-	position: relative;
+	position: absolute;
 	text-align: center;
 	color: black;
 }
 
 .asal2 {
-	position: relative;
+	position: absolute;
 	text-align: center;
 	color: black;
 }
 
 .asal3 {
-	position: relative;
+	position: absolute;
 	text-align: center;
 	color: black;
 }
