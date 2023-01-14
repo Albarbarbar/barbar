@@ -1,6 +1,6 @@
-@media screen (max-width: 500px) {
+@media screen {
 	img {
-		max-width: 100%;
+		max-width: 60%;
 	}
 
 }
