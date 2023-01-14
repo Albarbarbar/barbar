@@ -123,31 +123,31 @@ span {
 .asal2 {
 	position: relative;
 	text-align: center;
-	color: azure;
+	color: black;
 }
 
 .asal3 {
 	position: relative;
 	text-align: center;
-	color: azure;
+	color: black;
 }
 
 .kananbawah {
   	position: absolute;
   	bottom: 0px;
-	text-align: center;
+	right: 200px;
 }
 
 .kananbawah2 {
 	position: absolute;
 	top: 0px;
-	text-align: center;
+		right: 200px;
 }
 
 .kananbawah3 {
 	position: absolute;
 	top: 0px;
-	text-align: center;
+	right: 200px;
 }
 
 .extra {
