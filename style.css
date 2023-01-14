@@ -6,7 +6,6 @@
 }
 
 a {
-	color: black;
 	font-size: 20px;
 }
 
@@ -49,7 +48,7 @@ span {
 	color: darkorange
 }
 
-.navbar, .logo {
+.navbar .logo {
 	font-family:'Playfair Display', serif;
 	font-weight: bolder;
 	font-size: 35px;
