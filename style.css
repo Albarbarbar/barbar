@@ -13,12 +13,10 @@
 
 a {
 	color: black;
-
-	font-size: 25px;
+	font-size: 20px;
 }
 
 p {
-	
 	font-size: 16px;
 	letter-spacing: 0.9px;
 	word-spacing: 2px;
@@ -35,7 +33,7 @@ ul {
 
 h2 {
 	margin-bottom: 30px;
-	
+	font-family: 'Poppins', sans-serif;
 }
 
 h3 {
