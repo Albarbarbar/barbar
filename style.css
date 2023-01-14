@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
 	img {
 		max-width: 100%;
 	}
@@ -24,7 +24,7 @@ p {
 }
 
 img {
-	width: 40%;
+	width: 60%;
 }
 	
 ul {
