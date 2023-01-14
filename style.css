@@ -1,6 +1,6 @@
-@media screen and (min-width: 900px) {
+@media screen and (max-width: 600px) {
   img {
-	  width: 30%;
+	  width: 70%;
   }
 }
 
