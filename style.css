@@ -110,19 +110,19 @@ span {
 }
 
 .asal {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	color: black;
 }
 
 .asal2 {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	color: white;
 }
 
 .asal3 {
-	position: absolute;
+	position: relative;
 	text-align: center;
 	color: white;
 }
