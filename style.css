@@ -1,4 +1,4 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
 	img {
 		max-width: 100%;
 	}
@@ -159,7 +159,7 @@ span {
 
 .extra p {
 	margin-top: 20px;
-	font-size: 16px;
+	font-size: 12px;
 }
 
 .bondong {
