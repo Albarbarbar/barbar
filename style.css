@@ -1,3 +1,24 @@
+@media only screen and (max-width:768px) {
+	.epos p {
+		font-size: 5px;
+	}
+	.mu p {
+		font-size: 5px;
+	}
+	.rokok p {
+		font-size: 5px;
+	}
+	.extra p {
+		font-size: 5px;
+	}
+	.sirup {
+		font-size: 5px;
+	}
+	.babi p {
+		font-size: 5px;
+	}
+}
+
 * {
 	margin: 0%;
 	padding: 0%;
@@ -40,8 +61,12 @@ header {
 	color: azure;
 }
 
-span {
-	color:darkorange
+.headline {
+	z-index: 2;
+	background-color: rgb(65, 65, 65);
+	font-family: 'Playfair Display', serif;
+	margin-top: 83px;
+	position: fixed; 
 }
 
 .navbar, .logo {
@@ -82,7 +107,7 @@ span {
 }
 
 .epos {
-	padding-top: 10vh;
+	padding-top: 12vh;
 	text-align: center;
 	font-family: 'Poppins', sans-serif;
 }
