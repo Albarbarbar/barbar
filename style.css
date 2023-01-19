@@ -1,18 +1,21 @@
 @media only screen and (max-width:600px) {
 	.epos p {
-		font-size: 8px;
+		font-size: 5px;
 	}
 	.mu p {
-		font-size: 8px;
+		font-size: 5px;
 	}
 	.rokok p {
-		font-size: 8px;
+		font-size: 5px;
+	}
+	.extra p {
+		font-size: 5px;
 	}
 	.sirup {
-		font-size: 8px;
+		font-size: 5px;
 	}
 	.babi p {
-		font-size: 8px;
+		font-size: 5px;
 	}
 }
 
