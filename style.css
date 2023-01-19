@@ -1,4 +1,4 @@
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:768px) {
 	.epos p {
 		font-size: 5px;
 	}
@@ -23,10 +23,6 @@
 	margin: 0%;
 	padding: 0%;
 	box-sizing: border-box;
-}
-
-br {
-	margin-top: 25px;
 }
 
 hr {
@@ -150,14 +146,18 @@ span {
 }
 
 .sirup {
-	padding-top: 10vh;
+	padding-top: 12vh;
+	padding-bottom: 7vh;
 	text-align: center;
-	margin-bottom: 5vh;
 	font-family: 'Poppins', sans-serif;
 }
 
-.sirup p {
+.sirup h3 {
 	margin-top: 25px;
+}
+
+.sirup p {
+	margin-top: 15px;
 }
 
 .rokok {
@@ -177,18 +177,18 @@ span {
 	text-align: center;
 	color :azure;
 	font-size: 20px;
-	padding-top: 20px;
-    padding-bottom: 20px;
 	font-family: 'Poppins', sans-serif;
 }
 
 .bottom p {
-	margin-bottom: 10px;
 	font-size: 14px;
+	margin-bottom: 3vh;
 }
 
 footer {
 	background-color: #FF0000;
+	padding-top: 4vh;
+	padding-bottom: 4vh;
 }
 
 .babi {
@@ -201,14 +201,13 @@ footer {
 }
 
 .babi p {
-	margin-top: 15px;
-	margin-bottom: 7vh;
+	margin-top: 25px;
+	margin-bottom: 8vh;
 }
 
 .social a {
 	color: azure;
-	margin-left: 3vh;
-	margin-right: 3vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
 }
-
 
