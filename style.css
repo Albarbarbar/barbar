@@ -1,6 +1,18 @@
 @media only screen and (max-width:768px) {
 	.epos p {
-		font-size: 12px;
+		font-size: 10px;
+	}
+	.mu p {
+		font-size: 10px;
+	}
+	.rokok p {
+		font-size: 10px;
+	}
+	.sirup {
+		font-size: 10px;
+	}
+	.babi p {
+		font-size: 10px;
 	}
 }
 
@@ -8,7 +20,10 @@
 	margin: 0%;
 	padding: 0%;
 	box-sizing: border-box;
-	font-family: 'Poppins', sans-serif;
+}
+
+br {
+	margin-top: 25px;
 }
 
 hr {
@@ -54,19 +69,18 @@ span {
 .navbar, .logo {
 	font-weight: bolder;
 	font-size: 35px;
+	font-family: 'Playfair Display', serif;
 	display: flex;
-	flex-direction: row;
 	justify-content: space-between;
-	margin-inline: 10px;
+	margin-left: 2vh;
+	margin-top: 9px;
 }
 
 .navbar {
   	background-color: #FF0000;
   	position: fixed; 
 	z-index: 3;
-	margin: auto;
-	padding: auto;
-  	top: 0; 
+	margin: auto; 
   	width: 100%;
 	font-size: 30px;
 	letter-spacing: 0.5px;
@@ -79,8 +93,9 @@ span {
 	background-color: #FF0000;
 	color: azure;
 	text-align: center;
-	padding: 20px 20px;
+	padding: 30px 30px;
 	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
   }
 
 .navbar a:hover {
@@ -91,6 +106,7 @@ span {
 .epos {
 	padding-top: 10vh;
 	text-align: center;
+	font-family: 'Poppins', sans-serif;
 }
 
 .epos h3 {
@@ -106,6 +122,7 @@ span {
 	text-align: center;
 	float: center;
 	color: blue;
+	font-family: 'Poppins', sans-serif;
 }
 
 .extra img {
@@ -118,6 +135,7 @@ span {
 
 .mu {
 	text-align: center;
+	font-family: 'Poppins', sans-serif;
 }
 
 .mu p {
@@ -132,6 +150,7 @@ span {
 	padding-top: 10vh;
 	text-align: center;
 	margin-bottom: 5vh;
+	font-family: 'Poppins', sans-serif;
 }
 
 .sirup p {
@@ -140,6 +159,7 @@ span {
 
 .rokok {
 	text-align: center;
+	font-family: 'Poppins', sans-serif;
 }
 
 .rokok h3 {
@@ -156,6 +176,7 @@ span {
 	font-size: 20px;
 	padding-top: 20px;
     padding-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
 }
 
 .bottom p {
@@ -169,6 +190,7 @@ footer {
 
 .babi {
 	text-align: center;
+	font-family: 'Poppins', sans-serif;
 }
 
 .babi h3 {
@@ -185,4 +207,5 @@ footer {
 	margin-left: 3vh;
 	margin-right: 3vh;
 }
+
 
