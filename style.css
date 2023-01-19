@@ -63,8 +63,12 @@ header {
 
 .headline {
 	z-index: 2;
-	background-color: rgb(65, 65, 65);
+	background-color: rgb(202, 202, 202);
 	font-family: 'Playfair Display', serif;
+	color: #FF0000;
+	font-size: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	margin-top: 83px;
 	position: fixed; 
 }
